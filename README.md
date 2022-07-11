@@ -18,11 +18,13 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling 
 
 
-
+<img src= "./public/icons/budgetpic.png">
 
 ## Tutorial  
   
   * Visit the website [here](https://pure-sierra-01358.herokuapp.com/)  
+
+  
 
 ## Built With
 
